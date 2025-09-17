@@ -1,0 +1,7 @@
+Cybersecurity course
+
+The course begins by giving a brief summary of what cybersecurity means and what security teams do.
+
+Responsabilidades de un analista de seguridad: 
+1) Protecting computer and network systems
+2) Installing prevention software
