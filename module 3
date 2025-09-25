@@ -1,0 +1,49 @@
+# Module 3 – Security Frameworks, Controls, and the CIA Triad
+
+## Overview
+This module introduced **security frameworks**, **security controls**, and the **Confidentiality, Integrity, and Availability (CIA) Triad**.  
+
+Security frameworks provide a **structured approach** to implementing a security lifecycle, which consists of continuously evolving policies and standards. Frameworks, controls, and compliance regulations (laws) work together to manage security and ensure that every stakeholder contributes to minimizing risk.  
+
+---
+
+## Key Concepts
+
+### CIA Triad
+- **Confidentiality**: Ensures information is accessible only to authorized users.  
+- **Integrity**: Ensures accuracy and reliability of data.  
+- **Availability**: Ensures systems and data are accessible when needed.  
+
+### Security Frameworks
+Examples of widely adopted frameworks include:  
+- **NIST Cybersecurity Framework (CSF)**: Voluntary framework with standards, guidelines, and best practices for managing cybersecurity risk.  
+- **NIST Risk Management Framework (RMF)**: Provides a structured process for integrating security and risk management into system development.  
+
+> Note: Specific requirements and guidelines may vary depending on the type of organization.  
+
+### Compliance and Controls
+Beyond NIST CSF and RMF, security professionals must be familiar with additional **controls, frameworks, and compliance standards** to safeguard organizations and individuals.  
+
+---
+
+## Professional and Ethical Responsibilities
+Security professionals have both **legal** and **ethical** obligations to protect their organization and stakeholders.  
+
+- Remain impartial, honest, and law-abiding.  
+- Be transparent and evidence-based in decision-making.  
+- Act consistently and ethically in addressing security challenges.  
+- Stay informed and continuously expand expertise.  
+
+### Example: HIPAA
+The **Health Insurance Portability and Accountability Act (HIPAA)** is a U.S. federal law that protects patients’ **Protected Health Information (PHI)**.  
+- PHI cannot be shared without patient consent.  
+- Organizations must notify patients if their data is compromised.  
+- Security professionals play a key role in ensuring compliance with HIPAA obligations.  
+
+---
+
+## Key Takeaways
+- **Ethics** are central to daily work in cybersecurity.  
+- **CIA Triad** informs organizations on how to address risk in security policies and systems.  
+- **NIST CSF** provides standards and best practices for managing cyber risk.  
+- Staying **current with frameworks, controls, and compliance laws** is essential to ensuring security at both organizational and individual levels.  
