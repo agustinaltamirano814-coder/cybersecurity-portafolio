@@ -1,0 +1,21 @@
+Module 4 – The Entry-Level Analyst’s Toolkit
+
+Each organization may use different security tools depending on its needs. As an aspiring analyst, it’s essential to be familiar with standard industry tools and demonstrate the ability to adapt to similar technologies in the workplace.
+
+Key Concepts
+
+Programming: Languages like Python enable automation of repetitive tasks, reducing human error. SQL is used to query and manage databases containing millions of data points.
+
+Antivirus Software: Detects, prevents, and removes malware by scanning memory and identifying malicious patterns.
+
+Intrusion Detection Systems (IDS): Monitor system and network traffic, analyzing packets to identify unauthorized access or potential threats.
+
+Encryption: Converts plaintext into secure ciphertext to ensure data confidentiality. Distinct from encoding, encryption is designed to protect sensitive information from unauthorized users.
+
+Penetration Testing: Simulated attacks that identify vulnerabilities in systems, networks, applications, and processes, providing a comprehensive risk assessment.
+
+Forensics Basics: Chain of custody and evidence preservation are critical early steps in digital investigations.
+
+Takeaway
+
+The more tools and processes a security analyst masters, the more valuable they become to an organization. A strong foundation in automation, malware defense, threat detection, encryption, penetration testing, and forensic principles equips analysts to perform effectively in diverse environments.
